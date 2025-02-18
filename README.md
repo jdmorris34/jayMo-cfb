@@ -4,6 +4,6 @@ The ad**j**usted **a**nticipated **y**ield **mo**del, or **jayMo**, is a predict
 
 I am sharing the code I used to create the predictive model as well as the live dashboard that tracks and presents game predictions. The Jupyter notebook files consist of calls to the collegefootballdata (cfbd) API, subsequent data extraction, transformation, and cleaning, and ultimately the creation of the predictive model and final predictions dataset. The R file is the live version of the dashboard accessible at https://jdmorris34.shinyapps.io/jayMo-cfb/.
 
-For data privacy purposes, some code will be retracted such as API keys and MySQL database server access information.
+For data privacy purposes, some code will be redacted such as API keys and MySQL database server access information.
 
 Please reach out to me at justindmorris34@gmail.com for any inquiries or to learn more. Thanks!
